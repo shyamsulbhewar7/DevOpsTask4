@@ -36,7 +36,7 @@ spec:
     spec:
       containers:
       - name: httpd
-        image: aaditya5/aadi:latest
+        image: shyamsulbhewar/shyamk8s:latest
         ports:
         - containerPort: 80
      
